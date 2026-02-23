@@ -1,0 +1,36 @@
+# System Prompts & Permanent Memory for Alina Hota Portfolio
+
+## Aesthetic Memory
+Strictly use the "Oryn" color palette:
+- Deep charcoal/Black background: #050505
+- Emerald Green primary: #10b981  
+- High-contrast white text: #ffffff
+- Neon glow effects on emerald elements
+- Dark theme with cyber-noir aesthetic
+
+## Constraint Memory
+- Never use default "Hero" components or standard block templates
+- Every section must match the layout proportions of the uploaded wireframes
+- All animations must use Framer Motion AnimatePresence for smooth transitions
+- Text transitions (specifically taglines) must use opacity and Y-axis shifts
+- Profile picture must have thin, dashed circular border with orbital rotation animation
+
+## Logic Memory
+- All text transitions must use Framer Motion AnimatePresence for smooth opacity and Y-axis shifts
+- Rotating taglines: "Strategic Risk Consultant", "Cognitive Cyber Strategist", "Agentic AI Architect", "Data Science Storyteller", "Business Intelligence Partner"
+- Navigation must be sticky, pill-shaped with "Resume" button on far right
+- Use semantic HTML5 structure with accessibility features
+
+## Naming Convention
+- Always refer to the user as "Alina Hota"
+- Tone must remain technical and "Agentic" rather than "Marketing-heavy"
+- Use professional, technical language throughout
+- Focus on AI/ML/Data Science expertise and capabilities
+
+## Content Requirements
+- Header: "Hi 👋, I'm ALINA HOTA"
+- One-liner: "Transforming complex data landscapes into intelligent, resilient systems for global enterprises"
+- Companies: Deloitte, SS&C Technologies, Omnipresent Robot Tech
+- Experience: SS&C Technologies (2026), Deloitte USI (2022-2025), Omnipresent Robot Tech (2021)
+- Stats: "4 yrs Experience", "15+ Projects Delivered", "12+ Technologies"
+- Projects: 1. Cyber + ML Project, 2. SQL + Business Analytics, 3. Academic ML Project
