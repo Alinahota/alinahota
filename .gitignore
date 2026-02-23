@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# docs folder (for GitHub Pages)
+# /docs/
+
 # production
 /build
 
