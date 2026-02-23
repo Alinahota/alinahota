@@ -46,9 +46,13 @@ git pull origin main
 
 ## GitHub Pages Configuration
 - **Static Export**: Configured for GitHub Pages
-- **Build Output**: Generated in `/out` directory
-- **Base Path**: `/alinahota` for repository deployment
+- **Build Output**: Generated in `/docs` directory
+- **Deployment Branch**: dev
+- **Base Path**: Empty (root deployment)
+- **Asset Prefix**: `/alinahota` for repository deployment
 - **Workflow**: Automatic deployment via GitHub Actions
+- **Deployment Method**: docs folder from dev branch (like mrohitth/my-website)
+- **Jekyll**: Disabled with .nojekyll file
 
 ---
 *This file contains project configuration. Sensitive authentication information is stored securely in memory.*

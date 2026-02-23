@@ -107,7 +107,7 @@ export default function Hero() {
             </svg>
             <div className="w-[360px] h-[360px] md:w-[450px] md:h-[450px] rounded-full overflow-hidden relative z-10 shadow-[0_0_50px_rgba(16,185,129,0.2)]">
               <Image 
-                src="/profile_alina.jpg" 
+                src="/alinahota/profile_alina.jpg" 
                 alt="Alina Hota" 
                 fill
                 priority
